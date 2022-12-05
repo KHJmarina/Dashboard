@@ -15,7 +15,7 @@ eclipse로 만든 프론트엔드 개발자 웹 포트폴리오입니다.
 - 메인화면 위주 Front 작업
 - 상단 메뉴바 구현
 - jsp, css, javascript
-- zeplin 디자인을 바탕으로 front-end 작업 진행
+- ibSheet 차트 사용
 
 
 ## Skill
