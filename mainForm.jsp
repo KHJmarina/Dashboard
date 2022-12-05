@@ -50,7 +50,7 @@ function fnRemoveBookmark2(obj, menuCd) {
 
 <script type="text/javascript" src="<c:url value="/resources/chartjs/chartjsUtil.js"/>"></script>
 <script type="text/javascript" src="<c:url value="/resources/js/chart/colors.js"/>"></script>
-<script type="text/javascript" src="<c:url value="/resources/js/chart/common.js"/>"></script>
+<script type="text/javascript" src="<c:url value="/resources/js/comm/common.js"/>"></script>
 <script>
 function fnOnload() {
 	findByChartData(document.getElementById("searchInfoForm").srvcDivCd.value);
